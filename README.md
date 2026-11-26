@@ -27,7 +27,7 @@
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=qindarkstone/408Anki&type=date&logscale&legend=top-left" />
  </picture>
 </a>
-
+“本项目内容采用 CC BY-NC-SA 4.0 许可证。欢迎用于个人学习，严禁任何形式的商业用途。如需商用，请单独联系获取授权。”
 # 支持一下 
 ![mm_facetoface_collect_qrcode_1692358690539(1)](https://github.com/qindarkstone/408Anki/assets/81075299/548d7676-d0d5-47b7-b2c4-aeb9524b0d24)
 
