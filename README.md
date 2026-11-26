@@ -3,6 +3,9 @@
 # 408Anki-有帮助可以给个star啊亲(づ￣3￣)づ╭❤～
 + 408四门课个人向全基础零遗漏Anki记忆卡，涵盖王道四本书以及视频课内容知识点近99%，记熟冲向软微不是梦
 + PS：市面上的都是垃圾，个人将所有知识细化拆分为可翻转的卡，由正到反由反到正进行记忆，大量多次。
+### 个人blog：https://qindarkstone.github.io/
+## OS更新中
+## CN还未进行
 + ## 🌟 社区衍生与贡献
 
 感谢社区同学对本项目的支持与扩展！以下是基于本项目制作的衍生资源：
@@ -15,9 +18,7 @@
     > 【墨墨记忆卡】分享一个牌组「组成原理|知乎浮岛」
     > 
     > 复制口令打开墨墨记忆卡开始学习 💪 `mj:/¥H4GYMpexcknzrK4O¥`
-+ ### 个人blog：https://qindarkstone.github.io/
-## OS更新中
-## CN还未进行
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=qindarkstone%2F408Anki&type=date&logscale=&legend=top-left">
