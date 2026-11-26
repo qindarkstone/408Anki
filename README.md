@@ -10,7 +10,7 @@
 ### 1. 组成原理开源墨墨记忆卡版 (By [CCCCCOH](https://github.com/CCCCCOH))
 贡献者 [@CCCCCOH](https://github.com/CCCCCOH) 根据本项目的组成原理记忆卡，制作了**开源墨墨记忆卡版本**，并额外增加了**大量可视化的记忆**内容。详见 [Issue #3](https://github.com/qindarkstone/408Anki/issues/3)。
 
-*   **知乎详细说明**：[点击前往知乎专栏](https://zhuanlan.zhihu.com/p/2109310295046893634/edit)
+*   **知乎详细说明**：[点击前往知乎专栏](https://zhuanlan.zhihu.com/p/2109310295046893634/)
 *   **记忆卡口令**：
     > 【墨墨记忆卡】分享一个牌组「组成原理|知乎浮岛」
     > 
